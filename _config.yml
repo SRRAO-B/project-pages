@@ -8,9 +8,10 @@ url: "https://srrao-b.github.io"
 
 # Secondary Parameters
 baseurl: "/project-pages"
-header-img: img/home-bg.jpg
+header-img: img/IMG_0682.JPG
 headercolor: "#FFFFFF"
-logo: /project-pages/img/logos/Project-Pages-New-Logo-Inverted.png
+logo: 
+#/project-pages/img/logos/Project-Pages-New-Logo-Inverted.png
 
 # Tertiary Parameters
 github_username:  projectpages
